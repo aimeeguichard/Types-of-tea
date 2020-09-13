@@ -1,0 +1,9 @@
+Types of teas:
+
+Black
+Green
+White
+Oolong
+Herbal
+Yellow
+Fermented
